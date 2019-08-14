@@ -1,5 +1,5 @@
 <template>
-    <li>{{ book.item }}: {{ book.author }}</li>
+    <li>{{ book.item }}:{{ book.author }}</li>
 </template>
 
 <script>
