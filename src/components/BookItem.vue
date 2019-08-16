@@ -1,5 +1,4 @@
 <template>
-  <li></li>
   <li>{{book.item}}:{{book.author}}</li>
 </template>
 
