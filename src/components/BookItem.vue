@@ -9,7 +9,7 @@ export default {
 };
 </script>
 
-<style scoped>
+<style>
 li {
     display: block;
     margin: 0 10px;
